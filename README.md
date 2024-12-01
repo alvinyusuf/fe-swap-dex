@@ -35,6 +35,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-
-// "react": "19.0.0-rc-66855b96-20241106",
-// "react-dom": "19.0.0-rc-66855b96-20241106",
